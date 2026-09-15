@@ -116,7 +116,7 @@ By considering the **environmental, social, economic, and human development impa
 
 - 📄 [Project Report](SRN-Solar-PV-Project-Report.pdf)
 - 🎞️ [Project Presentation](SRN-Solar-PV-Presentation.pdf)
-- 🎤 [Interview Transcript](Dr.Morsi%20Ahmed's%20Interview%20Transcript%20.pdf)
+- 🎤 [Interview Transcript](<Dr.Morsi Ahmed's Interview Transcript .pdf>)
 - 🖼️ [SRN Solar PV Logo](SRN-Solar-PV-Logo.PNG)
 ---
 
