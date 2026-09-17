@@ -89,7 +89,7 @@ These values represent **estimated project calculations** for the purpose of thi
 
 ---
 
-##Expert Interview
+## 📝 Expert Interview
 
 As part of the project, an interview was conducted with **Dr. Morsi Ahmed** to gain expert insight into renewable energy challenges and opportunities relevant to Kuwait.
 
